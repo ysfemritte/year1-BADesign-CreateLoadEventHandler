@@ -1,0 +1,10 @@
+C:\Users\Yusuf\OneDrive\BADesign\Week 8\Load Event\bin\Debug\Load Event.exe.config
+C:\Users\Yusuf\OneDrive\BADesign\Week 8\Load Event\bin\Debug\Load Event.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 8\Load Event\bin\Debug\Load Event.pdb
+C:\Users\Yusuf\OneDrive\BADesign\Week 8\Load Event\obj\Debug\Load Event.csprojAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 8\Load Event\obj\Debug\Load_Event.Form1.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 8\Load Event\obj\Debug\Load_Event.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 8\Load Event\obj\Debug\Load Event.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 8\Load Event\obj\Debug\Load Event.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 8\Load Event\obj\Debug\Load Event.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 8\Load Event\obj\Debug\Load Event.pdb
